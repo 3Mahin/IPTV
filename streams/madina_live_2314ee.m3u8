@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=453241,RESOLUTION=320x256
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/saudi_sunnah-avc1_249984=1-mp4a_145600_ara=3.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=861360,RESOLUTION=480x384
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/saudi_sunnah-avc1_600000=2-mp4a_145600_ara=3.m3u8

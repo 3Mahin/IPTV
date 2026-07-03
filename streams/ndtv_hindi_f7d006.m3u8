@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1097800,RESOLUTION=640x360
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_360p@1.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1416800,RESOLUTION=854x480
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@2.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3330800,RESOLUTION=1280x720
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_720p@3.m3u8

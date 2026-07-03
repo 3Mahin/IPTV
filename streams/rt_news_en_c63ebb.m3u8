@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5218400,RESOLUTION=1920x1080
+https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2930400,RESOLUTION=1280x720
+https://rt-glb.rttv.com/live/rtnews/playlist_2500Kb.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1900800,RESOLUTION=960x540
+https://rt-glb.rttv.com/live/rtnews/playlist_1600Kb.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=985600,RESOLUTION=640x360
+https://rt-glb.rttv.com/live/rtnews/playlist_800Kb.m3u8
