@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=682936,RESOLUTION=1280x720
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131H/chunks.m3u8?nimblesessionid=639772351
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500429,RESOLUTION=640x360
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131M/chunks.m3u8?nimblesessionid=639772351
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=165995,RESOLUTION=480x270
+https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/live/131L/chunks.m3u8?nimblesessionid=639772351
