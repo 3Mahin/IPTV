@@ -178,3 +178,6 @@ http://ua102.online24.pm:8222/1101/video.m3u8?token=350B326FB34F4B8
 https://ranapkbd.site/JOIN@RANAPK33/XT/play.m3u8?id=146122
 #EXTINF:-1 tvg-name="BBC Sports" group-title="SPORTS",BBC Sports
 http://103.72.65.229:8422/tv.cricflixs.com/index.m3u8
+#EXTINF:-1 tvg-name="BDIX" group-title="SPORTS",BDIX FIFA
+http://103.114.11.37:33713/down/pWsqIFdMyutq.m3u 
+
