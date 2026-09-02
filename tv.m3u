@@ -5,6 +5,9 @@
 #EXTINF:-1 tvg-name="BTV" group-title="Bangladeshi",BTV
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="btv_news" tvg-name="BTV News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1b90aebe217ac437da23625feaba0b76_playmist_btv_news400x400.jpg" group-title="Bangladeshi",BTV News
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
+
 #EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangladeshi",Somoy TV
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
@@ -19,6 +22,12 @@ https://akash-by-hady.srhady.workers.dev/live/94.m3u8
 #EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
 #EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
 https://tv5.genatuz070.workers.dev/cdn/live/independent_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ekhontv" tvg-name="Ekhon TV" group-title="Bangladeshi",Ekhon TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/ekhon_tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="jamuna_tv" tvg-name="Jamuna TV" group-title="Bangladeshi",Jamuna TV
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
@@ -48,19 +57,82 @@ https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
 https://playztv-apps.pages.dev/my-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="rtv" tvg-name="RTV HD" group-title="Bangladeshi",RTV HD
-http://tvsen5.aynascope.net/RtvHD/index.m3u8
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
 
 #EXTINF:-1 tvg-id="sa_tv" tvg-name="SA TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png" group-title="Bangladeshi",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
-#EXTINF:-1 tvg-id="deshi_tv" tvg-name="Deshi TV HD" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="Bangladeshi",Deshi TV HD
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="bijoytv" tvg-name="Bijoy TV" group-title="Bangladeshi",Bijoy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/bijoytv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="channel_s" tvg-name="Channel S" group-title="Bangladeshi",Channel S
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="nexustv" tvg-name="Nexus TV" group-title="Bangladeshi",Nexus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/nexus_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="deshtv" tvg-name="Desh TV" group-title="Bangladeshi",Desh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/desh_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="asiantv" tvg-name="Asian TV" group-title="Bangladeshi",Asian TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/asian_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="anandatv" tvg-name="Ananda TV" group-title="Bangladeshi",Ananda TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/anandatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" group-title="Bangladeshi",Mohona TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/mohona_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="banglatv" tvg-name="Bangla TV" group-title="Bangladeshi",Bangla TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/bangla_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rajdhanitv" tvg-name="Rajdhani TV" group-title="Bangladeshi",Rajdhani TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/rajdhani_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channels" tvg-name="Channel S" group-title="Bangladeshi",Channel S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/channel_s_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="globaltv" tvg-name="Global TV" group-title="Bangladeshi",Global TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/globaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="moviebangla" tvg-name="Movie Bangla" group-title="Bangladeshi",Movie Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/movie_bangla/playlist.m3u8
 
 #EXTINF:-1 tvg-id="green_tv" tvg-name="Green TV" group-title="Bangladeshi",Green TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="deshi_tv" tvg-name="Deshi TV HD" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="Bangladeshi",Deshi TV HD
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="atn_music" tvg-name="ATN Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="Bangladeshi",ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
@@ -70,6 +142,18 @@ https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 
 # ==================== INDIAN BANGLA ====================
+
+#EXTINF:-1 tvg-id="zeebangla" tvg-name="Zee Bangla" group-title="Indian Bangla",Zee Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/zee_bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aath" group-title="Indian Bangla",Sony Aath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/sonyaath/playlist.m3u8
 
 #EXTINF:-1 tvg-id="enterr10_bangla" tvg-name="Enter10 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enter10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -132,13 +216,103 @@ https://tv6.vukerayogoge80.workers.dev/cdn/live/euro_sports_hd/playlist.m3u8
 https://tv5.genatuz070.workers.dev/cdn/live/ten_cricket/playlist.m3u8
 
 
+# ==================== HINDI ENTERTAINMENT & MOVIES ====================
+
+#EXTINF:-1 tvg-id="colorshd" tvg-name="Colors HD" group-title="Hindi Entertainment",Colors HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+
+#EXTINF:-1 tvg-id="sonyent" tvg-name="Sony Entertainment Television HD" group-title="Hindi Entertainment",Sony Entertainment Television HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sonyentertainmnt_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonysab" tvg-name="Sony SAB HD" group-title="Hindi Entertainment",Sony SAB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sonysab_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="andtv" tvg-name="&TV HD" group-title="Hindi Entertainment",&TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/and_tv_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="simatv" tvg-name="PiShow Live 1143" group-title="Hindi Entertainment",PiShow Live 1143
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
+#EXTINF:-1 tvg-id="aynaott_live" tvg-name="Ayna Live Feed" group-title="Entertainment",Ayna Live Feed
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+
+#EXTINF:-1 tvg-id="sonymax" tvg-name="Sony Max HD" group-title="Hindi Movies",Sony Max HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sony_max_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonymax2" tvg-name="Sony Max 2" group-title="Hindi Movies",Sony Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/sonymax_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="andpictures" tvg-name="&pictures HD" group-title="Hindi Movies",&pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/andpicture_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonypix" tvg-name="Sony Pix HD" group-title="English Movies",Sony Pix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sonypix_hd/playlist.m3u8
+
+
 # ==================== INFOTAINMENT & DOCUMENTARY ====================
+
+#EXTINF:-1 tvg-id="natgeohd" tvg-name="National Geographic HD" group-title="Infotainment",National Geographic HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel HD" group-title="Infotainment",Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/discovery_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discoveryinvestigation" tvg-name="Discovery Investigation HD" group-title="Infotainment",Discovery Investigation HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/discovary_investigation_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet HD" group-title="Infotainment",Animal Planet HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/animal_planet_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonybbcearth" tvg-name="Sony BBC Earth HD" group-title="Infotainment",Sony BBC Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tlchd" tvg-name="TLC HD" group-title="Infotainment",TLC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/tlc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="love_nature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Infotainment",Love Nature
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Infotainment",Animal Planet HD
-https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="wild_earth" tvg-name="WildEarth" group-title="Infotainment",WildEarth
 https://wildearth-plex.amagi.tv/master.m3u8
@@ -149,6 +323,30 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 
 # ==================== KIDS ====================
 
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network HD" group-title="Kids",Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/cartoon_network_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pogo" tvg-name="Pogo" group-title="Kids",Pogo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/pogo_sd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonyyay" tvg-name="Sony Yay" group-title="Kids",Sony Yay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sonyyay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" group-title="Kids",Discovery Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/discovery_kids/playlist.m3u8
+
 #EXTINF:-1 tvg-name="ZB Cartoon" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 
@@ -158,16 +356,28 @@ https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 # ==================== MUSIC ====================
 
+#EXTINF:-1 tvg-id="b4umusic" tvg-name="B4U Music" group-title="Music",B4U Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/b4u_music/playlist.m3u8
+
 #EXTINF:-1 tvg-id="8xm" tvg-name="8XM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011_logo.png" group-title="Music",8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
 
-# ==================== ISLAMIC ====================
+# ==================== ISLAMIC / RELIGIOUS ====================
 
-#EXTINF:-1 tvg-name="Saudi Quran" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Saudi Quran
+#EXTINF:-1 tvg-id="islamictv" tvg-name="Islamic TV" group-title="Religious",Islamic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/islamic_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Saudi Quran" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Religious",Saudi Quran
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-name="Madina Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Madina Live
+#EXTINF:-1 tvg-name="Madina Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Religious",Madina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 
