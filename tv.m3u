@@ -1,9 +1,12 @@
 #EXTM3U
 
-# ==================== BANGLADESHI CHANNELS ====================
+# ==================== YOUR ORIGINAL LIST (RESTORED & DEDUPLICATED) ====================
 
-#EXTINF:-1 tvg-name="BTV" group-title="Bangladeshi",BTV
+#EXTINF:-1 tvg-id="btv" tvg-name="BTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/BTV_logo.svg/512px-BTV_logo.svg.png" group-title="Bangladeshi",BTV
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="btv_news" tvg-name="BTV News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1b90aebe217ac437da23625feaba0b76_playmist_btv_news400x400.jpg" group-title="Bangladeshi",BTV News
+http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
 
 #EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangladeshi",Somoy TV
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
@@ -14,31 +17,25 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 #EXTINF:-1 tvg-id="channel24" tvg-name="Channel 24 HD" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png" group-title="Bangladeshi",Channel 24 HD
 https://akash-by-hady.srhady.workers.dev/live/94.m3u8
 
-#EXTINF:-1 tvg-id="independenttv" tvg-name="Independent TV" group-title="Bangladeshi",Independent TV
+#EXTINF:-1 tvg-id="independenttv" tvg-name="Independent TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Independent_Television_logo.png/512px-Independent_Television_logo.png" group-title="Bangladeshi",Independent TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
 #EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
 https://tv5.genatuz070.workers.dev/cdn/live/independent_tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ekhontv" tvg-name="Ekhon TV" group-title="Bangladeshi",Ekhon TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/ekhon_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="jamuna_tv" tvg-name="Jamuna TV" group-title="Bangladeshi",Jamuna TV
+#EXTINF:-1 tvg-id="jamuna_tv" tvg-name="Jamuna TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Jamuna_Television_Logo.svg/512px-Jamuna_Television_Logo.svg.png" group-title="Bangladeshi",Jamuna
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 
-#EXTINF:-1 tvg-id="atn_bangla" tvg-name="ATN Bangla" group-title="Bangladeshi",ATN Bangla
+#EXTINF:-1 tvg-id="atn_bangla" tvg-name="ATN Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/ATN_Bangla_logo.svg/512px-ATN_Bangla_logo.svg.png" group-title="Bangladeshi",ATN Bangla
 https://tvsen5.aynaott.com/P3y2URgG7LDe/index.m3u8
 
-#EXTINF:-1 tvg-id="ntv" tvg-name="NTV" group-title="Bangladeshi",NTV
+#EXTINF:-1 tvg-id="ntv" tvg-name="NTV (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/NTV_Bangladesh_Logo.svg/512px-NTV_Bangladesh_Logo.svg.png" group-title="Bangladeshi",NTV (720p)
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 
-#EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" group-title="Bangladeshi",Banglavision
+#EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Banglavision_logo.svg/512px-Banglavision_logo.svg.png" group-title="Bangladeshi",Banglavision
 https://tvsen5.aynaott.com/tgUzpPc9r6xw/index.m3u8
 
-#EXTINF:-1 tvg-id="channel_i" tvg-name="Channel i" group-title="Bangladeshi",Channel i
+#EXTINF:-1 tvg-id="channel_i" tvg-name="Channel i" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Channel_i_logo.svg/512px-Channel_i_logo.svg.png" group-title="Bangladeshi",Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 
 #EXTINF:-1 tvg-id="ekushey_tv" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png" group-title="Bangladeshi",Ekushey TV
@@ -47,89 +44,26 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="deepto_tv" tvg-name="Deepto TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/31/Deepto_TV_logo.png" group-title="Bangladeshi",Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 tvg-id="maasranga" tvg-name="Maasranga TV" group-title="Bangladeshi",Maasranga TV
+#EXTINF:-1 tvg-id="maasranga" tvg-name="Maasranga Tv" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Maasranga_Television_logo.svg/512px-Maasranga_Television_logo.svg.png" group-title="Bangladeshi",Maasranga Tv
 https://mtv.sunplex.live/MAASRANGA/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="my_tv" tvg-name="My TV" tvg-logo="https://i.postimg.cc/XY60wPgT/My-TV.jpg" group-title="Bangladeshi",My TV
 https://playztv-apps.pages.dev/my-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="rtv" tvg-name="RTV HD" group-title="Bangladeshi",RTV HD
-https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 tvg-id="rtv" tvg-name="RTV (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/RTV_Bangladesh_Logo.svg/512px-RTV_Bangladesh_Logo.svg.png" group-title="Bangladeshi",RTV (720p)
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
 
 #EXTINF:-1 tvg-id="sa_tv" tvg-name="SA TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_b6f2363fef23e117f9a13b7c185ce26c_playmist_satv.png" group-title="Bangladeshi",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 
-#EXTINF:-1 tvg-id="bijoytv" tvg-name="Bijoy TV" group-title="Bangladeshi",Bijoy TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/bijoytv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="nexustv" tvg-name="Nexus TV" group-title="Bangladeshi",Nexus TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/nexus_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="deshtv" tvg-name="Desh TV" group-title="Bangladeshi",Desh TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/desh_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="asiantv" tvg-name="Asian TV" group-title="Bangladeshi",Asian TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/asian_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="anandatv" tvg-name="Ananda TV" group-title="Bangladeshi",Ananda TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/anandatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" group-title="Bangladeshi",Mohona TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/mohona_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="banglatv" tvg-name="Bangla TV" group-title="Bangladeshi",Bangla TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/bangla_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rajdhanitv" tvg-name="Rajdhani TV" group-title="Bangladeshi",Rajdhani TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/rajdhani_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="channels" tvg-name="Channel S" group-title="Bangladeshi",Channel S
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/channel_s_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="globaltv" tvg-name="Global TV" group-title="Bangladeshi",Global TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/globaltv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="moviebangla" tvg-name="Movie Bangla" group-title="Bangladeshi",Movie Bangla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/movie_bangla/playlist.m3u8
-
-#EXTINF:-1 tvg-id="green_tv" tvg-name="Green TV" group-title="Bangladeshi",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="deshi_tv" tvg-name="Deshi TV HD" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="Bangladeshi",Deshi TV HD
+#EXTINF:-1 tvg-id="deshi_tv" tvg-name="Deshi TV (720p)" tvg-logo="https://i.postimg.cc/t4cxjxRj/Deshi-TV.jpg" group-title="Bangladeshi",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="channel_s" tvg-name="Channel S" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Channel_S_logo.svg/512px-Channel_S_logo.svg.png" group-title="Bangladeshi",Channel S
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="green_tv" tvg-name="Green TV (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Green_TV_logo.svg/512px-Green_TV_logo.svg.png" group-title="Bangladeshi",Green TV (1080p)
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="atn_music" tvg-name="ATN Music" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png" group-title="Bangladeshi",ATN Music
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
@@ -138,19 +72,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
 
 
-# ==================== INDIAN BANGLA ====================
-
-#EXTINF:-1 tvg-id="zeebangla" tvg-name="Zee Bangla" group-title="Indian Bangla",Zee Bangla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/zee_bangla/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aath" group-title="Indian Bangla",Sony Aath
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/sonyaath/playlist.m3u8
+# ==================== INDIAN BANGLA (ORIGINAL LIST) ====================
 
 #EXTINF:-1 tvg-id="enterr10_bangla" tvg-name="Enter10 Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Enterr10_Bangla.jpeg/200px-Enterr10_Bangla.jpeg" group-title="Indian Bangla",Enter10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
@@ -173,176 +95,62 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="zee_24_ghanta" tvg-name="Zee 24 Ghanta" tvg-logo="https://i.postimg.cc/tTNPLBMs/24-Ghanta.jpg" group-title="Indian Bangla",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 
-#EXTINF:-1 tvg-id="aakash_aath" tvg-name="Aakash Aath" group-title="Indian Bangla",Aakash Aath
+#EXTINF:-1 tvg-id="aakash_aath" tvg-name="AAKASH AATH" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/09/Aakash_Aath_logo.png/512px-Aakash_Aath_logo.png" group-title="Indian Bangla",AAKASH AATH
 https://cdn-4.pishow.tv/live/969/master.m3u8
 
 
-# ==================== SPORTS ====================
+# ==================== SPORTS (ORIGINAL LIST) ====================
 
-#EXTINF:-1 tvg-id="t_sports" tvg-name="T Sports" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="Sports",T Sports
+#EXTINF:-1 tvg-id="t_sports" tvg-name="T Sports (1080p)" tvg-logo="https://raw.githubusercontent.com/abusaeeidx/T-Sports-Playlist-Auto-Update/refs/heads/main/images/images%20(6)%20(9).jpeg" group-title="Sports",T Sports (1080p)
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 
-#EXTINF:-1 tvg-id="sonysports1" tvg-name="Sony Sports 1 HD" group-title="Sports",Sony Sports 1 HD
+#EXTINF:-1 tvg-id="sonysports1" tvg-name="Sony Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Sony_Sports_Ten_1.svg/512px-Sony_Sports_Ten_1.svg.png" group-title="Sports",Sony Sports 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
 #EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
 https://tv5.genatuz070.workers.dev/cdn/live/sony_sports_1_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sonysports2" tvg-name="Sony Sports 2 HD" group-title="Sports",Sony Sports 2 HD
+#EXTINF:-1 tvg-id="sonysports2" tvg-name="Sony Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Sony_Sports_Ten_2.svg/512px-Sony_Sports_Ten_2.svg.png" group-title="Sports",Sony Sports 2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
 #EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
 https://tv5.genatuz070.workers.dev/cdn/live/sony_sports_2_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="sonysports5" tvg-name="Sony Sports 5 HD" group-title="Sports",Sony Sports 5 HD
+#EXTINF:-1 tvg-id="sonysports5" tvg-name="Sony Sports 5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Sony_Sports_Ten_5.svg/512px-Sony_Sports_Ten_5.svg.png" group-title="Sports",Sony Sports 5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
 #EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
 https://tv6.vukerayogoge80.workers.dev/cdn/live/sony_sports_5_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="eurosports" tvg-name="Euro Sports HD" group-title="Sports",Euro Sports HD
+#EXTINF:-1 tvg-id="eurosports" tvg-name="Euro Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Eurosport_2015_logo.svg/512px-Eurosport_2015_logo.svg.png" group-title="Sports",Euro Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
 #EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
 https://tv6.vukerayogoge80.workers.dev/cdn/live/euro_sports_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-id="tencricket" tvg-name="Ten Cricket" group-title="Sports",Ten Cricket
+#EXTINF:-1 tvg-id="tencricket" tvg-name="Ten Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Ten_Cricket_logo.png/512px-Ten_Cricket_logo.png" group-title="Sports",Ten Cricket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
 #EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
 https://tv5.genatuz070.workers.dev/cdn/live/ten_cricket/playlist.m3u8
 
 
-# ==================== HINDI ENTERTAINMENT & MOVIES ====================
-
-#EXTINF:-1 tvg-id="colorshd" tvg-name="Colors HD" group-title="Hindi Entertainment",Colors HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
-
-#EXTINF:-1 tvg-id="sonyent" tvg-name="Sony Entertainment Television HD" group-title="Hindi Entertainment",Sony Entertainment Television HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/sonyentertainmnt_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sonysab" tvg-name="Sony SAB HD" group-title="Hindi Entertainment",Sony SAB HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/sonysab_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="andtv" tvg-name="&TV HD" group-title="Hindi Entertainment",&TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/and_tv_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="simatv" tvg-name="PiShow Live 1143" group-title="Hindi Entertainment",PiShow Live 1143
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-
-#EXTINF:-1 tvg-id="aynaott_live" tvg-name="Ayna Live Feed" group-title="Entertainment",Ayna Live Feed
-https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
-
-#EXTINF:-1 tvg-id="sonymax" tvg-name="Sony Max HD" group-title="Hindi Movies",Sony Max HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/sony_max_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sonymax2" tvg-name="Sony Max 2" group-title="Hindi Movies",Sony Max 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/sonymax_2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="andpictures" tvg-name="&pictures HD" group-title="Hindi Movies",&pictures HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/andpicture_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sonypix" tvg-name="Sony Pix HD" group-title="English Movies",Sony Pix HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/sonypix_hd/playlist.m3u8
-
-
-# ==================== INFOTAINMENT & DOCUMENTARY ====================
-
-#EXTINF:-1 tvg-id="natgeohd" tvg-name="National Geographic HD" group-title="Infotainment",National Geographic HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-
-#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel HD" group-title="Infotainment",Discovery Channel HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/discovery_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="discoveryinvestigation" tvg-name="Discovery Investigation HD" group-title="Infotainment",Discovery Investigation HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/discovary_investigation_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet HD" group-title="Infotainment",Animal Planet HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/animal_planet_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sonybbcearth" tvg-name="Sony BBC Earth HD" group-title="Infotainment",Sony BBC Earth HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="tlchd" tvg-name="TLC HD" group-title="Infotainment",TLC HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/tlc_hd/playlist.m3u8
+# ==================== INFOTAINMENT & DOCUMENTARY (ORIGINAL LIST) ====================
 
 #EXTINF:-1 tvg-id="love_nature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png" group-title="Infotainment",Love Nature
 https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="wild_earth" tvg-name="WildEarth" group-title="Infotainment",WildEarth
+#EXTINF:-1 tvg-id="animal_planet" tvg-name="Animal Planet HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png" group-title="Infotainment",Animal Planet HD
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="wild_earth" tvg-name="Wild Life" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/WildEarth_TV_logo.png/512px-WildEarth_TV_logo.png" group-title="Infotainment",Wild Life
 https://wildearth-plex.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="accuweather" tvg-name="AccuWeather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg" group-title="Infotainment",AccuWeather
+#EXTINF:-1 tvg-id="accuweather" tvg-name="ACCU WEATHER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/AccuWeather_2021.svg" group-title="Infotainment",ACCU WEATHER
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8?v=1
 
 
-# ==================== KIDS ====================
-
-#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network HD" group-title="Kids",Cartoon Network HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/cartoon_network_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pogo" tvg-name="Pogo" group-title="Kids",Pogo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/pogo_sd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sonyyay" tvg-name="Sony Yay" group-title="Kids",Sony Yay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/sonyyay/playlist.m3u8
-
-#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" group-title="Kids",Discovery Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/discovery_kids/playlist.m3u8
+# ==================== KIDS (ORIGINAL LIST) ====================
 
 #EXTINF:-1 tvg-name="ZB Cartoon" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg" group-title="Kids",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
@@ -351,58 +159,241 @@ https://server.zillarbarta.com/zbcatun/video.m3u8
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 
 
-# ==================== MUSIC ====================
+# ==================== MUSIC (ORIGINAL LIST) ====================
 
-#EXTINF:-1 tvg-id="b4umusic" tvg-name="B4U Music" group-title="Music",B4U Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv5.genatuz070.workers.dev/cdn/live/b4u_music/playlist.m3u8
-
-#EXTINF:-1 tvg-id="8xm" tvg-name="8XM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011_logo.png" group-title="Music",8XM
+#EXTINF:-1 tvg-id="8xm" tvg-name="MU | 8XM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/8XM_2011_logo.png" group-title="Music",MU | 8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
 
-# ==================== ISLAMIC / RELIGIOUS ====================
+# ==================== ISLAMIC (ORIGINAL LIST) ====================
 
-#EXTINF:-1 tvg-id="islamictv" tvg-name="Islamic TV" group-title="Religious",Islamic TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
-#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
-https://tv6.vukerayogoge80.workers.dev/cdn/live/islamic_tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Saudi Quran" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Religious",Saudi Quran
+#EXTINF:-1 tvg-name="Saudi Quran" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_Gxy8ywjMY6_YPX-1uYtUGA56FOfDoBsH62-ekNA=s900-c-k-c0x00ffffff-no-rj" group-title="Islamic",Saudi Quran
 https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 
-#EXTINF:-1 tvg-name="Madina Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Religious",Madina Live
+#EXTINF:-1 tvg-name="Madina Live" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png" group-title="Islamic",Madina Live
 https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8
 
 
-# ==================== INTERNATIONAL NEWS ====================
+# ==================== INTERNATIONAL NEWS (ORIGINAL LIST) ====================
 
 #EXTINF:-1 tvg-id="dw_news" tvg-name="DW English" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="International News",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-id="cnn" tvg-name="CNN News" tvg-logo="https://is.gd/ywX5PG" group-title="International News",CNN News
+#EXTINF:-1 tvg-id="cnn" tvg-name="CNN NEWS" tvg-logo="https://is.gd/ywX5PG" group-title="International News",CNN NEWS
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ndtv_24x7" tvg-name="NDTV 24x7" tvg-logo="https://is.gd/ih6x8j" group-title="International News",NDTV 24x7
+#EXTINF:-1 tvg-id="ndtv_24x7" tvg-name="NDTV NEWS" tvg-logo="https://is.gd/ih6x8j" group-title="International News",NDTV NEWS
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 
-#EXTINF:-1 tvg-id="ndtv_india" tvg-name="NDTV India" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="International News",NDTV India
+#EXTINF:-1 tvg-id="ndtv_india" tvg-name="NDTV Hindi" tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="International News",NDTV Hindi
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 
 #EXTINF:-1 tvg-id="rt_news" tvg-name="RT News (EN)" tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="International News",RT News (EN)
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rt_doc" tvg-name="RT Doc" tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="International News",RT Doc
+#EXTINF:-1 tvg-id="rt_doc" tvg-name="RTNEWS GLOBAL" tvg-logo="https://i.ibb.co/M7W5zRy/images.png" group-title="International News",RTNEWS GLOBAL
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8?v=1
 
-#EXTINF:-1 tvg-id="leadstory" tvg-name="LeadStory News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="International News",LeadStory News
+#EXTINF:-1 tvg-id="leadstory" tvg-name="Breaking News" tvg-logo="https://i.postimg.cc/ZnD8CtvQ/BBC.jpg" group-title="International News",Breaking News
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg02703-leadstory-leadstory-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-id="cna" tvg-name="CNA News" tvg-logo="https://i.postimg.cc/vH3MKVPY/CNN.jpg" group-title="International News",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 
-#EXTINF:-1 tvg-id="newsmax2" tvg-name="Newsmax 2" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg" group-title="International News",Newsmax 2
+#EXTINF:-1 tvg-id="newsmax2" tvg-name="News Max 2" tvg-logo="https://i.postimg.cc/RZJmcSt6/9XM.jpg" group-title="International News",News Max 2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+
+
+# ==================== NEW CHANNELS (ADDED FROM CAPTURED LIST) ====================
+
+#EXTINF:-1 tvg-id="bijoytv" tvg-name="Bijoy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Bijoy_TV_logo.png/512px-Bijoy_TV_logo.png" group-title="Bangladeshi",Bijoy TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/bijoytv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ekhontv" tvg-name="Ekhon TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f6/Ekhon_TV_logo.png/512px-Ekhon_TV_logo.png" group-title="Bangladeshi",Ekhon TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/ekhon_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="nexustv" tvg-name="Nexus TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Nexus_Television_logo.png/512px-Nexus_Television_logo.png" group-title="Bangladeshi",Nexus TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/nexus_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="deshtv" tvg-name="Desh TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Desh_TV_logo.svg/512px-Desh_TV_logo.svg.png" group-title="Bangladeshi",Desh TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/desh_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="asiantv" tvg-name="Asian TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Asian_TV_logo.svg/512px-Asian_TV_logo.svg.png" group-title="Bangladeshi",Asian TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/asian_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="anandatv" tvg-name="Ananda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Ananda_TV_logo.png/512px-Ananda_TV_logo.png" group-title="Bangladeshi",Ananda TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/anandatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mohonatv" tvg-name="Mohona TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a0/Mohona_Television_logo.png/512px-Mohona_Television_logo.png" group-title="Bangladeshi",Mohona TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/mohona_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="banglatv" tvg-name="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Bangla_TV_logo.svg/512px-Bangla_TV_logo.svg.png" group-title="Bangladeshi",Bangla TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/bangla_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="rajdhanitv" tvg-name="Rajdhani TV" tvg-logo="https://i.ibb.co/hC3Yp0V/rajdhani-tv.png" group-title="Bangladeshi",Rajdhani TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/rajdhani_tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="globaltv" tvg-name="Global TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Global_Television_Bangladesh_logo.png/512px-Global_Television_Bangladesh_logo.png" group-title="Bangladeshi",Global TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/globaltv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="moviebangla" tvg-name="Movie Bangla" tvg-logo="https://i.ibb.co/t4cxjxRj/Deshi-TV.jpg" group-title="Bangladeshi",Movie Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/movie_bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="zeebangla" tvg-name="Zee Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/Zee_Bangla_Logo_2023.svg/512px-Zee_Bangla_Logo_2023.svg.png" group-title="Indian Bangla",Zee Bangla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/zee_bangla/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonyaath" tvg-name="Sony Aath" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Sony_Aath_logo.svg/512px-Sony_Aath_logo.svg.png" group-title="Indian Bangla",Sony Aath
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/sonyaath/playlist.m3u8
+
+#EXTINF:-1 tvg-id="colorshd" tvg-name="Colors HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Colors_TV_logo.svg/512px-Colors_TV_logo.svg.png" group-title="Hindi Entertainment",Colors HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/master2.m3u8
+
+#EXTINF:-1 tvg-id="sonyent" tvg-name="Sony Entertainment Television HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sony_Entertainment_Television_logo.svg/512px-Sony_Entertainment_Television_logo.svg.png" group-title="Hindi Entertainment",Sony Entertainment Television HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sonyentertainmnt_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonysab" tvg-name="Sony SAB HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c5/Sony_SAB_logo.svg/512px-Sony_SAB_logo.svg.png" group-title="Hindi Entertainment",Sony SAB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sonysab_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="andtv" tvg-name="&TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/%26TV_logo.svg/512px-%26TV_logo.svg.png" group-title="Hindi Entertainment",&TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/and_tv_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonymax" tvg-name="Sony Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Sony_Max_logo.svg/512px-Sony_Max_logo.svg.png" group-title="Hindi Movies",Sony Max HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sony_max_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonymax2" tvg-name="Sony Max 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Sony_Max_2_logo.svg/512px-Sony_Max_2_logo.svg.png" group-title="Hindi Movies",Sony Max 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/sonymax_2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="andpictures" tvg-name="&pictures HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/87/%26pictures_logo.svg/512px-%26pictures_logo.svg.png" group-title="Hindi Movies",&pictures HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/andpicture_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonypix" tvg-name="Sony Pix HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/Sony_Pix_logo.svg/512px-Sony_Pix_logo.svg.png" group-title="English Movies",Sony Pix HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sonypix_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="natgeohd" tvg-name="National Geographic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National_Geographic_Channel_logo.svg/512px-National_Geographic_Channel_logo.svg.png" group-title="Infotainment",National Geographic HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
+
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel HD" tvg-logo="https://bdiptv.stream/uploads/tv_image/discovery.png" group-title="Infotainment",Discovery Channel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/discovery_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discoveryinvestigation" tvg-name="Discovery Investigation HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Investigation_Discovery_logo_2020.svg/512px-Investigation_Discovery_logo_2020.svg.png" group-title="Infotainment",Discovery Investigation HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/discovary_investigation_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonybbcearth" tvg-name="Sony BBC Earth HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/Sony_BBC_Earth_logo.svg/512px-Sony_BBC_Earth_logo.svg.png" group-title="Infotainment",Sony BBC Earth HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sonybbc_earth_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tlchd" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/TLC_Logo_2020.svg/512px-TLC_Logo_2020.svg.png" group-title="Infotainment",TLC HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/tlc_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="cartoonnetwork" tvg-name="Cartoon Network HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/cartoon_network_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="pogo" tvg-name="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Pogo_TV_logo.svg/512px-Pogo_TV_logo.svg.png" group-title="Kids",Pogo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/pogo_sd/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sonyyay" tvg-name="Sony Yay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Sony_Yay%21_logo.svg/512px-Sony_Yay%21_logo.svg.png" group-title="Kids",Sony Yay
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/sonyyay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="discoverykids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Discovery_Kids_logo_2016.svg/512px-Discovery_Kids_logo_2016.svg.png" group-title="Kids",Discovery Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/discovery_kids/playlist.m3u8
+
+#EXTINF:-1 tvg-id="b4umusic" tvg-name="B4U Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/B4U_Music_logo.svg/512px-B4U_Music_logo.svg.png" group-title="Music",B4U Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv5.genatuz070.workers.dev/cdn/live/b4u_music/playlist.m3u8
+
+#EXTINF:-1 tvg-id="islamictv" tvg-name="Islamic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Islamic_TV_logo.png/512px-Islamic_TV_logo.png" group-title="Religious",Islamic TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://tv.akash-go.workers.dev/
+#EXTVLCOPT:http-origin=https://tv.akash-go.workers.dev
+https://tv6.vukerayogoge80.workers.dev/cdn/live/islamic_tv/playlist.m3u8
