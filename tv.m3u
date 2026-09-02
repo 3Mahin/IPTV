@@ -5,9 +5,6 @@
 #EXTINF:-1 tvg-name="BTV" group-title="Bangladeshi",BTV
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="btv_news" tvg-name="BTV News" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_1b90aebe217ac437da23625feaba0b76_playmist_btv_news400x400.jpg" group-title="Bangladeshi",BTV News
-http://sm-monirul.top/@monirul_Islam_SM/proxy.php?id=btv_news&format=.m3u8
-
 #EXTINF:-1 tvg-id="somoy_tv" tvg-name="Somoy TV" tvg-logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png" group-title="Bangladeshi",Somoy TV
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
 
